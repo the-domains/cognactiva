@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Diseñamos y activamos terapias cognitiva personalizadas. Habilitamos y
   estabilizamos personas de todas las edades que presenten:
-dateModified: '2017-09-03T22:40:28.093Z'
-datePublished: '2017-09-03T22:40:55.123Z'
+dateModified: '2017-09-03T22:47:29.118Z'
+datePublished: '2017-09-03T22:47:30.531Z'
 title: Servicios a Personas
 author:
   - name: CgA Plus
@@ -21,7 +21,7 @@ isBasedOnUrl: >-
   https://the-grid.github.io/ed-userhtml/?g=eJwlzUEOwiAQAMCvkH1AsTH1YEoPHj158dwUWIQI0ixLNv5eox-YmVOgraCS5DkamE4HUBHTI7KB4ziBauQMROa9nbUWkeFdO3eLg6tFY7HotWvXcFnH9fa8g_pxtpJHMvDFtpyrhJ5zc4T4Wmb9H5cPyLEpyg
 hasPage: false
 starred: false
-datePublishedOriginal: '2017-09-03T22:40:55.123Z'
+datePublishedOriginal: '2017-02-21T22:13:58.207Z'
 _type: MediaObject
 
 ---
@@ -45,6 +45,6 @@ Ofrecemos servicios de evaluación diagnóstica
 
 
 
-[0]: http://Déficit de Atención e Hiperactividad/
+[0]: https://desk.zoho.com/portal/cognactiva/kb/articles/trastorno-de-d%C3%A9ficit-de-atenci%C3%B3n-e-hiperactividad-tdah "TDAH"
 [1]: http://cognactiva.helpscoutdocs.com/article/9-que-son-los-transtornos-del-espectro-autista-tea "TEA"
 [2]: http://cognactiva.helpscoutdocs.com/article/12-que-es-el-trastorno-generalizado-del-desarrollo-tgd "TGD"
