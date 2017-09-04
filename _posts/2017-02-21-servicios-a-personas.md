@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Diseñamos y activamos terapias cognitiva personalizadas. Habilitamos y
   estabilizamos personas de todas las edades que presenten:
-dateModified: '2017-09-04T00:01:36.365Z'
-datePublished: '2017-09-04T00:01:37.915Z'
+dateModified: '2017-09-04T00:01:38.349Z'
+datePublished: '2017-09-04T00:01:40.898Z'
 title: Servicios a Personas
 author:
   - name: CgA Plus
