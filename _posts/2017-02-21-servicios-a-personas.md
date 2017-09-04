@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Diseñamos y activamos terapias cognitiva personalizadas. Habilitamos y
   estabilizamos personas de todas las edades que presenten:
-dateModified: '2017-09-03T23:27:35.407Z'
-datePublished: '2017-09-03T23:27:36.316Z'
+dateModified: '2017-09-04T00:01:36.365Z'
+datePublished: '2017-09-04T00:01:37.915Z'
 title: Servicios a Personas
 author:
   - name: CgA Plus
@@ -47,4 +47,4 @@ Ofrecemos servicios de evaluación diagnóstica
 
 [0]: https://desk.zoho.com/portal/cognactiva/kb/articles/trastorno-de-d%C3%A9ficit-de-atenci%C3%B3n-e-hiperactividad-tdah "TDAH"
 [1]: https://desk.zoho.com/portal/cognactiva/kb/articles/trastorno-del-espectro-autista-tea "TEA"
-[2]: http://cognactiva.helpscoutdocs.com/article/12-que-es-el-trastorno-generalizado-del-desarrollo-tgd "TGD"
+[2]: https://desk.zoho.com/portal/cognactiva/kb/articles/trastorno-generalizado-del-desarrollo-tgd "TGD"
